@@ -57,4 +57,4 @@ Realizamos predicciones en el conjunto de prueba y preparamos el archivo para la
 
 ## 5. Conclusiones
 
-Este proyecto ha cubierto el proceso de predicción de la deserción de clientes utilizando un modelo de regresión logística. Hemos abordado la imputación de valores nulos, el manejo del desbalanceo de clases, la transformación de variables categóricas, y la evaluación del modelo. Finalmente, hemos preparado un archivo de predicciones para su envío.
+Este proyecto ha cubierto el proceso de predicción de la deserción de clientes utilizando un modelo de regresión logística. Hemos abordado la imputación de valores nulos, el manejo del desbalanceo de clases, la transformación de variables categóricas, y la evaluación del modelo.
