@@ -56,5 +56,5 @@ Entrenamos y evaluamos un modelo de regresión logística para predecir la deser
 Realizamos predicciones en el conjunto de prueba y preparamos el archivo para la presentación.
 
 ## 5. Conclusiones
+El modelo de predicción de churn ha logrado un F1-score de 0.56093 en el conjunto de prueba. Este puntaje indica que el modelo tiene una capacidad moderada para identificar a los clientes propensos a abandonar el servicio, equilibrando adecuadamente la precisión y el recall.
 
-Este proyecto ha cubierto el proceso de predicción de la deserción de clientes utilizando un modelo de regresión logística. Hemos abordado la imputación de valores nulos, el manejo del desbalanceo de clases, la transformación de variables categóricas, y la evaluación del modelo.
